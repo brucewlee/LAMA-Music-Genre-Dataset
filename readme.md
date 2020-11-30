@@ -8,11 +8,14 @@ I hope that this work can help in several Deep Learning, Machine Learning projec
 **Anyone is free to use/change/contribute to this Dataset. Please cite Bruce W. Lee and this Repo if you use this Dataset in your research/projects.**
 
 ## Getting Started
+> Some data couldn't be uploaded to GitHub because the file size was too large. Instead, I attached a Harvard Dataverse link below to retrieve the data.
 
 The data contained in **LAMA** can be classified into three categories: 
-1. **.wav files** (`Data_Original`, `Data_Cropped`)
-2. **Waveform, FFT, STFT, MFCC graph plots** (`Graphs`, `Sample_Graphs`)
+1. **.wav files** (`Data_Original`, `Data_Cropped`) -> Uploaded in Harvard Dataverse. Link below.
+2. **Waveform, FFT, STFT, MFCC graph plots** (`Graphs`, `Sample_Graphs`) -> Uploaded in Harvard Dataverse. Link below.
 3. **mfcc training data** (`training_data.json`)
+
+[Link to the full audio data] (https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IOYLWX)
 
 ### graph plot EXAMPLES:
 *from `Graphs`*
