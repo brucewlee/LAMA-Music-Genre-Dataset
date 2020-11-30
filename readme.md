@@ -5,7 +5,7 @@ This Dataset consists of the .wav files of YouTube videos classified into four c
 
 I hope that this work can help in several Deep Learning, Machine Learning projects in *Music Genre Classification*. 
 
-**Anyone is free to use/change/contribute to this Dataset. Please cite Bruce W. Lee and this Repo if you use this Dataset in your research/projects.**
+**Anyone is free to use/change/contribute to this Dataset. Please cite if you use this Dataset in your research/projects.**
 
 ## Getting Started
 > Some data couldn't be uploaded to GitHub because the file size was too large. Instead, I attached a Harvard Dataverse link below to retrieve the data.
