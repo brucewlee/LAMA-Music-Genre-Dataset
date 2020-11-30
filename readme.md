@@ -15,7 +15,7 @@ The data contained in **LAMA** can be classified into three categories:
 2. **Waveform, FFT, STFT, MFCC graph plots** (`Graphs`, `Sample_Graphs`) -> Uploaded in Harvard Dataverse. Link below.
 3. **mfcc training data** (`training_data.json`)
 
-[Link to the full audio data] (https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IOYLWX)
+[Link to the full audio data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IOYLWX)
 
 ### graph plot EXAMPLES:
 *from `Graphs`*
