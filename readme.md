@@ -32,3 +32,6 @@ The data contained in **LAMA** can be classified into three categories:
 The classification of genre in this Dataset is mostly from the "AudioSet" project by the Sound and Video Understanding teams at Google Research. I chose the best examples from their website and preprocessed them to create this Dataset.
 
 In addition, I obtained much of the knowledge needed to create this Dataset from the YouTube Channel, "Valerio Velardo - The Sound of AI. Mr. Velardo makes amazing videos, and I believe that he deserves more recognition.
+
+## Citing this DataSet
+> @data{DVN/IOYLWX_2020, author = {Bruce W. Lee}, publisher = {Harvard Dataverse}, title = {{LAMA: World Music Genre Dataset}}, year = {2020}, version = {DRAFT VERSION}, doi = {10.7910/DVN/IOYLWX}, url = {https://doi.org/10.7910/DVN/IOYLWX}
