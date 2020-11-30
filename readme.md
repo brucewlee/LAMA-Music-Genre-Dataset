@@ -15,6 +15,11 @@ The data contained in **LAMA** can be classified into three categories:
 2. **Waveform, FFT, STFT, MFCC graph plots** (`Graphs`, `Sample_Graphs`) -> Uploaded in Harvard Dataverse. Link below.
 3. **mfcc training data** (`training_data.json`)
 
+## Statistics
+- `Data_Original` : 113 (Africa), 83 (Asia), 90 (LatinAmerica), 80 (MiddleEast)
+- `Data_Cropped` (1 min clips of original) : 108 (Africa), 77 (Asia), 87 (LatinAmerica), 77 (MiddleEast)
+- `Graphs` -> FFT : 108 (Africa), 77 (Asia), 87 (LatinAmerica), 77 (MiddleEast)
+
 [Link to the full audio data](https://doi.org/10.7910/DVN/IOYLWX)
 
 ### graph plot EXAMPLES:
@@ -22,11 +27,6 @@ The data contained in **LAMA** can be classified into three categories:
 ![Image of SFTS](/readme_images/SFTS_example.png)
 *from `Sample_Graphs`*
 ![Image of MFCC](/readme_images/MFCC_example.png)
-
-## Statistics
-- `Data_Original` : 113 (Africa), 83 (Asia), 90 (LatinAmerica), 80 (MiddleEast)
-- `Data_Cropped` (1 min clips of original) : 108 (Africa), 77 (Asia), 87 (LatinAmerica), 77 (MiddleEast)
-- `Graphs` -> FFT : 108 (Africa), 77 (Asia), 87 (LatinAmerica), 77 (MiddleEast)
 
 ## Acknowledgements
 The classification of genre in this Dataset is mostly from the "AudioSet" project by the Sound and Video Understanding teams at Google Research. I chose the best examples from their website and preprocessed them to create this Dataset.
