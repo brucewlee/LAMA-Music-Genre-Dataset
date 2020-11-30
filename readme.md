@@ -34,6 +34,7 @@ The classification of genre in this Dataset is mostly from the "AudioSet" projec
 In addition, I obtained much of the knowledge needed to create this Dataset from the YouTube Channel, "Valerio Velardo - The Sound of AI. Mr. Velardo makes amazing videos, and I believe that he deserves more recognition.
 
 ## Citing this DataSet
+```
 @data{DVN/IOYLWX_2020,
 author = {Bruce W. Lee},
 publisher = {Harvard Dataverse},
@@ -43,3 +44,4 @@ version = {V1},
 doi = {10.7910/DVN/IOYLWX},
 url = {https://doi.org/10.7910/DVN/IOYLWX}
 }
+```
