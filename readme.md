@@ -1,7 +1,7 @@
 # LAMA : A World Music Genre Dataset
 > LAMA - LatinAmerica, Asia, MiddleEastern, Africa Genre Dataset
 
-<p align="center">
+<p align="left">
 <img src="/readme_images/LAMA-LOGO.png" alt="MusicGenreClassification" width="400">
 </p>
 
