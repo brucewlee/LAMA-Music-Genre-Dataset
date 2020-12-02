@@ -1,6 +1,8 @@
 # LAMA : A World Music Genre Dataset
 > LAMA - LatinAmerica, Asia, MiddleEastern, Africa Genre Dataset
 
+![Image of SFTS](/readme_images/LAMA.png)
+
 This Dataset consists of the .wav files, training dataset (MFCC), and graph plots (FFTs, MFCCs, STFTs, Waveforms) of YouTube videos classified into four categories: LatinAmerica, Asia, MiddleEastern, and Africa. 
 
 I hope that this work can help in several Deep Learning, Machine Learning projects in *Music Genre Classification*. 
