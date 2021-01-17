@@ -24,7 +24,7 @@ The data contained in **LAMA** can be classified into three categories:
 - `Data_Cropped` (1 min clips of original) : 108 (Africa), 77 (Asia), 87 (LatinAmerica), 77 (MiddleEast)
 - `Graphs` -> FFT : 108 (Africa), 77 (Asia), 87 (LatinAmerica), 77 (MiddleEast)
 
-[Link to the full audio data](https://doi.org/10.7910/DVN/IOYLWX)
+[Link to the full audio data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/13BPFB)
 
 ### graph plot EXAMPLES:
 *from `Graphs`*
