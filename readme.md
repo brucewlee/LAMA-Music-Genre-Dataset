@@ -39,13 +39,13 @@ In addition, I obtained much of the knowledge needed to create this Dataset from
 
 ## Citing this DataSet
 ```
-@data{DVN/IOYLWX_2020,
-author = {Bruce W. Lee},
+@data{DVN/13BPFB_2020,
+author = {Lee, Bruce W},
 publisher = {Harvard Dataverse},
-title = {{LAMA: World Music Genre Dataset}},
+title = {{LAMA World Music Genre Dataset}},
 year = {2020},
-version = {V1},
-doi = {10.7910/DVN/IOYLWX},
-url = {https://doi.org/10.7910/DVN/IOYLWX}
+version = {DRAFT VERSION},
+doi = {10.7910/DVN/13BPFB},
+url = {https://doi.org/10.7910/DVN/13BPFB}
 }
 ```
